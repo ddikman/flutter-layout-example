@@ -1,16 +1,7 @@
 # flutter_layout_example
 
-A new Flutter project.
+This code base shows an example of how how to scale a page to fit whilst having a fixed-size footer stuck to the bottom of the page.
 
-## Getting Started
+It examplifies the use of `Expanded`, `FittedBox` and `Flexible` in order to get this working.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Example](./example.png)
